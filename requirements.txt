@@ -1,0 +1,10 @@
+opencv-python==4.10.0.84
+torch==2.5.1
+diffusers==0.30.0
+gradio==3.41.2
+open3d==0.18.0
+paddleocr==2.8.1
+paddlepaddle==2.6.1
+transformers==4.44.2
+accelerate==0.34.2
+SentencePiece==0.2.0
