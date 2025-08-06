@@ -1,4 +1,6 @@
 # RealText: Realistic Text Image Generation based on Glyph and Scene Aware Inpainting (ACM MM2025)
+The official implementation of "RealText: Realistic Text Image Generation based on Glyph and Scene Aware Inpainting", which has been accepted by ACM MM2025.
+
 ## Installation
 ```bash
 git clone https://github.com/cccvl/RealText
@@ -18,3 +20,4 @@ Put the .ttf file in ./fonts.
 python gui.py --gb_model "Flux.1" --gw_model "SDXL-x"
 ```
 Please check the the model loading in gui.py and confirm that the corresponding checkpoint file has been downloaded. If you need to add a new model, the code needs to be modified.
+
